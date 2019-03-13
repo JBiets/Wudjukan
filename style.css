@@ -50,6 +50,8 @@ body{
   width: 40%;
   vertical-align: super;
   margin-left: 8%;
+  display: inline;
+  height: 100px;
 
 }
 
